@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742378120 source:/media/live/GORDONI/BSI-1/programacaoEstruturada/Aula02/operadoresMatematicos/main.cpp
+	<iomanip>
+	<iostream>
+	<locale>
+

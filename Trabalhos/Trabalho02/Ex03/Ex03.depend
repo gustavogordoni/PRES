@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742901999 source:/home/live/Downloads/programacaoEstruturada/Trabalhos/Trabalho02/Ex03/main.cpp
+	<iostream>
+	<locale>
+
