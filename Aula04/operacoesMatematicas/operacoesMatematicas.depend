@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743505652 source:/home/live/Downloads/programacaoEstruturada/Aula04/operacoesMatematicas/main.cpp
+	<iostream>
+	<locale>
+

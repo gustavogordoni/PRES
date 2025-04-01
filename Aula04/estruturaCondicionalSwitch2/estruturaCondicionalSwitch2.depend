@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743504408 source:/home/live/Downloads/programacaoEstruturada/Aula04/estruturaCondicionalSwitch2/main.cpp
+	<iostream>
+	<locale>
+	<cctype>
+
