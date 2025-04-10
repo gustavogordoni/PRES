@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744137524 source:/home/gustavo/Downloads/BSI-1/programacaoEstruturada/Trabalhos/Trabalho05/Ex03/main.cpp
+	<iostream>
+	<locale>
+	<cmath>
+

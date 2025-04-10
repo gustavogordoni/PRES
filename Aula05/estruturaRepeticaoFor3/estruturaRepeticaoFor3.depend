@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744115386 source:/home/gustavo/Downloads/BSI-1/programacaoEstruturada/Aula05/estruturaRepeticaoFor3/main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+

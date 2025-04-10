@@ -1,0 +1,35 @@
+incremento 
+a) pós-fixado
+
+num = 10;
+x = num++ -7
+
+x = num - 7;
+num = num + 1;
+
+==> x=3 ; num = 11
+
+b) pré-fixado
+ num = 3;
+x = ++num * 5;
+
+num = num + 1;
+x = num * 5;
+
+==> num = 4 ; x = 20;
+
+
+Exemplo:
+a = 2;
+b = 3;
+c = 5;
+d = 11;
+e = 15;
+r = -3;
+z = 0;
+
+: 3, 5, 15
+: 3, 6, 2
+: -3, 3
+: 2, 3, 20
+: 16, 14, 11
