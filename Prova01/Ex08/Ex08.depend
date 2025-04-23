@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745320894 source:e:\bsi-1\programacaoestruturada\prova01\ex08\main.cpp
+	<iostream>
+	<locale>
+	<windows.h>
+

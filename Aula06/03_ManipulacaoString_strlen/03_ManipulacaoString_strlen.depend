@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744800350 source:e:\bsi-1\programacaoestruturada\aula06\03_manipulacaostring_strlen\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+	<windows.h>
+

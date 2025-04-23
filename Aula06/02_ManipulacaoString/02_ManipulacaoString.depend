@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744799788 source:e:\bsi-1\programacaoestruturada\aula06\02_manipulacaostring\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+

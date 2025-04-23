@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744800428 source:e:\bsi-1\programacaoestruturada\aula06\01_medianotas\main.cpp
+	<iostream>
+	<locale>
+	<windows.h>
+

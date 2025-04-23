@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744801318 source:e:\bsi-1\programacaoestruturada\aula06\06_manipulandostring_strcmp\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+	<windows.h>
+
