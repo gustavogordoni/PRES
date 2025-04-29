@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1745923852 source:/home/live/Downloads/programacaoEstruturada/Aula04/04_Vetor_notasQntIndefinida/main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+
+1745926382 source:/home/live/Downloads/programacaoEstruturada/Aula08/04_Vetor_notasQntIndefinida/main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+

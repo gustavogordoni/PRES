@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745926612 source:/home/live/Downloads/programacaoEstruturada/Aula08/06_Vetor_Ex01_produto/main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+
