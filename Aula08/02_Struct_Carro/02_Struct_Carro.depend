@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746530885 source:/home/live/Downloads/programacaoEstruturada/Aula08/02_Struct_Carro/main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+

@@ -10,12 +10,15 @@ int main()
     SetConsoleCP(1252);
     SetConsoleOutputCP(1252);
 
-    /*
-    float;
-    int;
-    string;
-    char[5];
-    */
+    // float;
+    // int;
+    // string;
+    // char[1];
+    // vetor[1];
+    // matriz[row][col];
+
+    // struct Name{
+    // } strName[quantity];
 
     cout << "";
     cin >> i;
