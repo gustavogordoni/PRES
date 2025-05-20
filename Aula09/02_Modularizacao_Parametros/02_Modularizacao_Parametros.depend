@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747737714 source:e:\bsi-1\programacaoestruturada\aula09\02_modularizacao_parametros\main.cpp
+	<iostream>
+	<locale>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747738570 source:e:\bsi-1\programacaoestruturada\aula09\03_modularizacao_return\main.cpp
+	<iostream>
+	<locale>
+	<windows.h>
+
