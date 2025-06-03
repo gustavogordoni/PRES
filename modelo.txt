@@ -7,8 +7,8 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
-    SetConsoleCP(1252);
-    SetConsoleOutputCP(1252);
+    // SetConsoleCP(1252);
+    // SetConsoleOutputCP(1252);
 
     // float;
     // int;

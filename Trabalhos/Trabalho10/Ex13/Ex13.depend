@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748363568 source:/home/gustavo/Downloads/BSI-1/Semestre01/programacaoEstruturada/Trabalhos/Trabalho10/Ex13/main.cpp
+	<iostream>
+	<locale>
+	<fstream>
+
