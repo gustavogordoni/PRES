@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1748954117 source:/home/gustavo/Downloads/BSI-1/Semestre01/programacaoEstruturada/Aula11/Simulado/Ex04/main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+	<fstream>
+
