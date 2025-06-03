@@ -20,21 +20,14 @@ int main()
         cin >> vetor2[i];
     }
 
-    for(int i = 1; i <= QNT * 2; i++){
-        vetorResultante[i] = vetor2[i];
-
-    /*
-        if(i % 2 == 0){
-            vetorResultante[i] = vetor2[i];
-        }else{
-            vetorResultante[i] = vetor1[i];
-        }
-        */
+    for(int i = 1, j = 1; i <= QNT; i++, j+=2){
+        vetorResultante[j] = vetor1[i];
+        vetorResultante[j+1] = vetor2[i];
     }
 
     cout << "Os valore digitados são: ";
 
-    for(int i = 1; i <= QNT; i++){
+    for(int i = 1; i <= QNT * 2; i++){
         cout << vetorResultante[i] << " - ";
     }
 
